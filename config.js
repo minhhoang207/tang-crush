@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'well here iam what are ur other 2 wishes? ',
     btnYes: 'u <33 ',
     btnNo: 'hell no :3',
-    question:'cant choose no right hahaha 😌 now u belong to me haha😝 ',
+    question:'cant choose no right hahaha 😌 now u belong to me haha write down sth😝 ',
     btnReply: 'send me <3 ',
     reply: 'love',
     mess: 'just kidding 🤣. happy bday girl 😘😘',
