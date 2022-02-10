@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'i love u baby ',
     mess: 'just kidding 🤣. have a good day baby',
     messDesc: 'awww u are so cute, my baby.',
-    btnAccept: 'i love u 😝😝 ',
+    btnAccept: 'i love u too😝😝 ',
     messLink: 'http://nmh207' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
